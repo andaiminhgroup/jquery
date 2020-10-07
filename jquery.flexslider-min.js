@@ -1,7 +1,7 @@
 /*
- * jQuery FlexSlider v2.2.0
- * Copyright 2012 WooThemes
- * Contributing Author: Tyler Smith
+ * jQuery FlexSlider v3.0
+ * Copyright 2020 AN DAI MINH GROUP
+ * Contributing Author: Michael Dang
  */
 (function(e) {
     e.flexslider = function(t, n) {
