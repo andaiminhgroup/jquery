@@ -1,5 +1,5 @@
 /*
- * jQuery FlexSlider v3.0
+ * jQuery v3.0
  * Copyright 2020 AN DAI MINH GROUP
  * Contributing Author: Michael Dang
  */
