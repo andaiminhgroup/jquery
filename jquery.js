@@ -1,4 +1,8 @@
-/*! jQuery v1.8.3 jquery.com | jquery.org/license */
+/*
+ * jQuery FlexSlider v3.0
+ * Copyright 2020 AN DAI MINH GROUP
+ * Contributing Author: Michael Dang
+ */
 (function(e, t) {
     function _(e) {
         var t = M[e] = {};
