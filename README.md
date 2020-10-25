@@ -19,7 +19,7 @@ This is the robot-only repository for admg, where all the library assets that ar
 
 ### Other Repositories
 
-For our website, please refer to the [`cdnjs/static-website`](https://github.com/cdnjs/static-website) repository.
+For our website, please refer to the [`andaiminhgroup/website`](https://github.com/andaiminhgroup/website) repository.
 
 ## Contributing
 
