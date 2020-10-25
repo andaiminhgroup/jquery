@@ -80,4 +80,4 @@ If you are interested in becoming a sponsor, please feel free to contact us!
 
 ## License
 
-Each library is released under its own license. This cdnjs repository is published under [MIT license](LICENSE).
+Each library is released under its own license. This cdnjs repository is published under [ADMG](LICENSE).
