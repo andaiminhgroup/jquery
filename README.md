@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This is the robot-only repository for admg, where all the library assets that are hosted on cdnjs are stored. For the JSON files that control the libraries we host, please see the "jquery" [andaiminhgroup](https://www.andaiminh.com/) repository.
+This is the robot-only repository for admg, where all the library assets that are hosted on cdnjs are stored. For the JSON files that control the libraries we host, please see the "jquery" [andaiminh.com](https://www.andaiminh.com/) repository.
 
 ### Other Repositories
 
