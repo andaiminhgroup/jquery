@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    <a href="https://www.andaiminh.com/"><img src="https://andaiminhgroup.github.io/images/andaiminh-logo-web.png" width="175px" alt="< cdnjs >"></a>
+    <a href="https://www.andaiminh.com/"><img src="https://andaiminhgroup.github.io/images/andaiminh-logo-web.png" width="175px" alt="< admg >"></a>
 </h1>
 <h1 align="center">AN ĐẠI MINH GROUP</h1>
 
-<h3 align="center">The #1 free and open source CDN built to make life easier for developers.</h3>
+<h3 align="center">Free and open source CDN built to make life easier for developers.</h3>
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This is the robot-only repository for admg, where all the library assets that are hosted on cdnjs are stored. For the JSON files that control the libraries we host, please see the "jquery" [andaiminh.com](https://www.andaiminh.com/) repository.
+This is the robot-only repository for admg, where all the library assets that are hosted on admg are stored. For the JSON files that control the libraries we host, please see the "jquery" [andaiminh.com](https://www.andaiminh.com/) repository.
 
 ### Other Repositories
 
@@ -33,4 +33,4 @@ If you are interested in becoming a sponsor, please feel free to contact us!
 
 ## License
 
-Each library is released under its own license. This admg repository is published under [ADMG](LICENSE).
+Each library is released under its own license. This admg repository is published under [admg](LICENSE).
