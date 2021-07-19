@@ -21,10 +21,10 @@
 	};
 
 
-$(&#39;#number1&#39;).jQuerySimpleCounter({end: 12,duration: 3000});
-$(&#39;#number2&#39;).jQuerySimpleCounter({end: 55,duration: 3000});
-$(&#39;#number3&#39;).jQuerySimpleCounter({end: 359,duration: 2000});
-$(&#39;#number4&#39;).jQuerySimpleCounter({end: 246,duration: 2500});
+$(&#39;#number1&#39;).jQuerySimpleCounter({end: 200,duration: 3000});
+$(&#39;#number2&#39;).jQuerySimpleCounter({end: 1000,duration: 5000});
+$(&#39;#number3&#39;).jQuerySimpleCounter({end: 89,duration: 2500});
+$(&#39;#number4&#39;).jQuerySimpleCounter({end: 50,duration: 2000});
 
 
 
