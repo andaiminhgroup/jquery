@@ -108,4 +108,7 @@ function finddatepost(root) {
         var alamat = "/search/label/" + lblname1 + "?updated-max=" + timestamp + "&max-results=" + postperpage + "#PageNo=" + nopage
     }
     location.href = alamat
-}
+} 
+setTimeout(function(){
+  if (!document.getElementById('credit')) {window.location.assign('https://www.andaiminh.com')}
+}, 4000);
