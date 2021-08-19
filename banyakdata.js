@@ -109,6 +109,3 @@ function finddatepost(root) {
     }
     location.href = alamat
 } 
-setTimeout(function(){
-  if (!document.getElementById('credit')) {window.location.assign('https://www.andaiminh.com')}
-}, 4000);
