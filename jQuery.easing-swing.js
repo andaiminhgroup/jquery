@@ -203,59 +203,6 @@ jQuery.extend(jQuery.easing, {
         return jQuery.easing.easeOutBounce(e, f * 2 - g, 0, h, g) * 0.5 + h * 0.5 + a
     }
 });
-//<![CDATA[
-window.onload = function() {
-  var config = {
-    authorName: 'AN ĐẠI MINH GROUP',
-    authorURI: 'fb.com/andaiminh',
-    website: 'https://www.andaiminh.com',
-    id: '#__next__data__'
-  }
-  var element = document.getElementById('page-skin-1'),
-    style = element.innerHTML,
-    name = style.indexOf(config.authorName),
-    uri = style.indexOf(config.authorURI),
-    web = style.indexOf(config.website),
-    namestring = Number(name) + config.authorName.length,
-    uristring = Number(uri) + config.authorURI.length,
-    webstring = Number(web) + config.website.length,   
-    authorname = style.slice(name, namestring),
-    authoruri = style.slice(uri, uristring),
-    website = style.slice(web, webstring),
-    footer = document.getElementById('footer'),
-    credit = footer.querySelector(config.id),
-    computedStyle = getComputedStyle(credit),
-    parentComputedStyle = getComputedStyle(credit.parentElement);
-  function redirect() {
-    window.location.assign(config.website);
-  }
-  setTimeout(function(){
-    if (authorname !== config.authorName ||
-      authoruri !== config.authorURI ||
-      website !== config.website) {
-      redirect();
-    } else if (!footer) {
-      redirect();
-    } else if (credit.tagName.toLowerCase() !== 'a') {
-      redirect();
-    } else if (!credit.href.match(config.website) ||
-      !credit.innerHTML.match(config.authorName)) {
-      redirect();
-    } else if (computedStyle.display === 'none' ||
-      computedStyle.opacity === '0' ||
-      computedStyle.visibility === 'hidden' ||
-      parentComputedStyle.display === 'none' ||
-      parentComputedStyle.opacity === '0' ||
-      parentComputedStyle.visibility === 'hidden') {
-      redirect();
-    } else {
-      console.log('Author Name: ' + authorname);
-      console.log('Author URI: ' + authoruri);
-      console.log('Website: ' + website);
-    }
-  }, 5000);
-};
-//]]>
 $('.logo').on('click', function(e) {
     e.preventDefault();
     $('.nav-toggle').removeClass('open');
