@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <a href="https://www.andaiminh.com/"><img src="https://andaiminhgroup.github.io/images/andaiminh-logo-web.png" width="175px" alt="< admg >"></a>
+    <a href="https://www.andaiminh.com/"><img src="https://avatars.githubusercontent.com/u/72484357?v=4" width="175px" alt="< admg >"></a>
 </h1>
 <h1 align="center">AN ĐẠI MINH GROUP</h1>
 
